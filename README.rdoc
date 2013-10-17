@@ -1,4 +1,6 @@
 == Welcome to Rails
+m1
+
 
 
 Rails is a web-application framework that includes everything needed to create
