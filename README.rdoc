@@ -1,5 +1,5 @@
 == Welcome to Rails
-m1 2
+m1 2 3
 
 
 d1 2
