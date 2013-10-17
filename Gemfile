@@ -1,10 +1,6 @@
 source 'https://rubygems.org'
 
-
 #mm1
-
-#d1
-
 
 gem 'rails', '3.2.12'
 
