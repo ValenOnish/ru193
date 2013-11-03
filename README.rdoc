@@ -6,7 +6,7 @@ d1 2
 third dev +6 +7
 forth
 
-fith
+fifth
 
 
 Rails is a web-application framework that includes everything needed to create
